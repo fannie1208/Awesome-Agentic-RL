@@ -1,6 +1,6 @@
 # Awesome-Agentic-RL
 
-## Tool Agent
+## Tool-Integrated RL
 
 [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2503.23383), arxiv 2503
 
