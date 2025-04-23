@@ -1,19 +1,68 @@
+<a name="readme-top"></a>
+
+
+<h1 align="center">Awesome Agentic RL</h1>
+
+<p align="center">
+    <b> Collection of papers and resources on training LLM agents with RL.</b>
+</p>
+
+
 <div align="center">
-  
-# Awesome-Agentic-RL
+
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL">
+  <img src="https://img.shields.io/github/last-commit/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Last Commit">
+</a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL/stargazers">
+  <img src="https://img.shields.io/github/stars/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Stargazers">
+</a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL/network/members">
+  <img src="https://img.shields.io/github/forks/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Forks">
+</a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="MIT License">
+</a>
+<img src="https://img.shields.io/badge/Contributions-welcome-blue?style=for-the-badge" alt="Contribution Welcome">
 
 </div>
 
+
+<!-- Table of Contents -->
+<details>
+  <summary>🗂️ Table of Contents</summary>
+  <ol>
+    <li><a href="#tool-integrated-rl">Tool-Integrated RL</a></li>
+    <li><a href="#rl-for-llms">RL for LLMs</a></li>
+  </ol>
+</details>
+
 ## Tool-Integrated RL
 
-[Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516), arxiv 2503
+- [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536), arxiv 2504
 
-[ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470), 2503
+- [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870), arxiv 2504
 
-[ToRL: Scaling Tool-Integrated RL](https://arxiv.org/pdf/2503.23383), arxiv 2503
+- [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958), arxiv 2504 [[code](https://github.com/qiancheng0/ToolRL)]
 
-[ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536), arxiv 2504
+- [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516), arxiv 2503 [[code](https://github.com/PeterGriffinJin/Search-R1)]
 
-[OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870), arxiv 2504
+- [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470), arxiv 2503 [[code](https://github.com/Agent-RL/ReCall)]
 
-[ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958), arxiv 2504
+- [ToRL: Scaling Tool-Integrated RL](https://arxiv.org/pdf/2503.23383), arxiv 2503 [[code](https://github.com/GAIR-NLP/ToRL)]
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top
+    </a>
+</p>
+
+## RL for LLMs
+- [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/pdf/2504.16084), arxiv 2504
+
+    Training LLMs using RL on unlabeled data. 
+
+<p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
+    <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↑ Back to Top
+    </a>
+</p>
