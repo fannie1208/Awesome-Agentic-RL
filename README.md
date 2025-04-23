@@ -3,18 +3,10 @@
 
 <div align="center">
 
-<a href="https://github.com/fannie1208/Awesome-Agentic-RL">
-  <img src="https://img.shields.io/github/last-commit/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Last Commit">
-</a>
-<a href="https://github.com/fannie1208/Awesome-Agentic-RL/stargazers">
-  <img src="https://img.shields.io/github/stars/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Stargazers">
-</a>
-<a href="https://github.com/fannie1208/Awesome-Agentic-RL/network/members">
-  <img src="https://img.shields.io/github/forks/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Forks">
-</a>
-<a href="https://github.com/fannie1208/Awesome-Agentic-RL/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="MIT License">
-</a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL"><img src="https://img.shields.io/github/last-commit/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Last Commit"></a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL/stargazers"><img src="https://img.shields.io/github/stars/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Stargazers"></a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL/network/members"><img src="https://img.shields.io/github/forks/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="Forks"></a>
+<a href="https://github.com/fannie1208/Awesome-Agentic-RL/blob/main/LICENSE"><img src="https://img.shields.io/github/license/fannie1208/Awesome-Agentic-RL?style=for-the-badge" alt="MIT License"></a>
 <img src="https://img.shields.io/badge/Contributions-welcome-blue?style=for-the-badge" alt="Contribution Welcome">
 
 </div>
