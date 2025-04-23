@@ -1,13 +1,6 @@
 <a name="readme-top"></a>
 
 
-<h1 align="center">Awesome Agentic RL</h1>
-
-<p align="center">
-    <b> Collection of papers and resources on training LLM agents with RL.</b>
-</p>
-
-
 <div align="center">
 
 <a href="https://github.com/fannie1208/Awesome-Agentic-RL">
@@ -25,6 +18,16 @@
 <img src="https://img.shields.io/badge/Contributions-welcome-blue?style=for-the-badge" alt="Contribution Welcome">
 
 </div>
+
+
+<h1 align="center">Awesome Agentic RL</h1>
+
+<p align="center">
+    <b> Collection of papers and resources on training LLM agents with RL.</b>
+</p>
+
+
+
 
 
 <!-- Table of Contents -->
