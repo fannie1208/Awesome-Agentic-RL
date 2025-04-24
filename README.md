@@ -24,6 +24,7 @@
   <summary>🗂️ Table of Contents</summary>
   <ol>
     <li><a href="#tool-integrated-rl">Tool-Integrated RL</a></li>
+    <li><a href="#automatic-searching">Automatic Searching</a></li>
     <li><a href="#rl-for-llms">RL for LLMs</a></li>
   </ol>
 </details>
@@ -44,7 +45,7 @@
     </a>
 </p>
 
-## Search
+## Automatic Searching
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516), arxiv 2503 [[code](https://github.com/PeterGriffinJin/Search-R1)] ![](https://img.shields.io/badge/Method-orange)
 
 - [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470), arxiv 2503 [[code](https://github.com/Agent-RL/ReCall)] ![](https://img.shields.io/badge/Method-orange)
@@ -59,6 +60,10 @@
 - [TTRL: Test-Time Reinforcement Learning](https://arxiv.org/pdf/2504.16084), arxiv 2504 ![](https://img.shields.io/badge/Method-orange)
 
     Training LLMs using RL on unlabeled data. 
+
+- [LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities](https://arxiv.org/pdf/2504.16078), arxiv 2504 ![](https://img.shields.io/badge/Evaluation-green) ![](https://img.shields.io/badge/Method-orange)
+
+    Investigating why LLMs perform sub-optimally in decision-making scenarios: greediness, frequency bias, and the knowing-doing gap. Proposing mitigation by fine-tuning via RL on self-generated CoT rationales.
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
