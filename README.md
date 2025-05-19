@@ -31,6 +31,8 @@
 
 ## Tool-Integrated RL
 
+- [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958), arxiv 2504 ![](https://img.shields.io/badge/Method-orange)
+
 - [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536), arxiv 2504 ![](https://img.shields.io/badge/Method-orange)
 
 - [OTC: Optimal Tool Calls via Reinforcement Learning](https://arxiv.org/pdf/2504.14870), arxiv 2504 ![](https://img.shields.io/badge/Method-orange)
@@ -46,6 +48,8 @@
 </p>
 
 ## Automatic Searching
+- [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160), arxiv 2504 [[code](https://github.com/GAIR-NLP/DeepResearcher)] ![](https://img.shields.io/badge/Method-orange)
+
 - [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/pdf/2503.09516), arxiv 2503 [[code](https://github.com/PeterGriffinJin/Search-R1)] ![](https://img.shields.io/badge/Method-orange)
 
 - [ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning](https://arxiv.org/pdf/2503.19470), arxiv 2503 [[code](https://github.com/Agent-RL/ReCall)] ![](https://img.shields.io/badge/Method-orange)
