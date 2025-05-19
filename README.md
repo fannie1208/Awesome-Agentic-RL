@@ -31,7 +31,7 @@
 
 ## Tool-Integrated RL
 
-- [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958), arxiv 2504 ![](https://img.shields.io/badge/Method-orange)
+- [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958), arxiv 2504 [[code](https://github.com/qiancheng0/ToolRL)] ![](https://img.shields.io/badge/Method-orange)
 
 - [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/pdf/2504.11536), arxiv 2504 ![](https://img.shields.io/badge/Method-orange)
 
